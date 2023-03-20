@@ -1,4 +1,4 @@
-# Predicting the Quality of View Synthesis With Color-Depth Image Fusion, IEEE Transactions on Circuits and Systems for Video Technology, 2021.
+# Predicting the Quality of View Synthesis With Color-Depth Image Fusion
 
 Paper download: https://ieeexplore.ieee.org/document/9201056/
 
