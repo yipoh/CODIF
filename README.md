@@ -2,8 +2,10 @@
 Predicting the Quality of View Synthesis With Color-Depth Image Fusion, IEEE Transactions on Circuits and Systems for Video Technology, 2021.
 
 
-If you find our work is useful, pleaes cite our papers
+If you find our work is useful, pleaes cite our papers:
+
 [1] L. Li, Y. Huang, J. Wu, K. Gu and Y. Fang, "Predicting the Quality of View Synthesis With Color-Depth Image Fusion," IEEE Transactions on Circuits and Systems for Video Technology, vol. 31, no. 7, pp. 2509-2521, 2021.
+
 [2] Y. Huang, L. Li, H. Zhu and B. Hu, "Blind Quality Index of Depth Images Based on Structural Statistics for View Synthesis," IEEE Signal Processing Letters, vol. 27, pp. 685-689, 2020.
 
 The complete CODIF metric includes two parts: 1. HED model, 2. CODIF Codes.
